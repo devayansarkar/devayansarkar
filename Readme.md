@@ -44,28 +44,32 @@
 
 ### Backend:
 
-<img align="left" alt="Spring-Boot" width="26px" src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" />
+<img align="left" alt="Spring-Boot" width="40px" src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" />
 
-<img align="left" alt="Nodejs" width="26px" src="https://icon-library.com/images/js-icon/js-icon-13.jpg" />
+<img align="left" alt="Nodejs" width="40px" src="https://icon-library.com/images/js-icon/js-icon-13.jpg" />
 
-<img align="left" alt="Flask" width="26px" src="https://qph.fs.quoracdn.net/main-qimg-e251cee423804864838edc8408c56341" />
+<img align="left" alt="Flask" width="40px" src="https://qph.fs.quoracdn.net/main-qimg-e251cee423804864838edc8408c56341" />
 
-<img align="left" alt="Django" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/60px-Django_logo.svg.png" />
+<img align="left" alt="Django" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/60px-Django_logo.svg.png" />
 
 <br />
 <br />
 
 ### Frontend:
 
-<img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/60px-React-icon.svg.png" />
+<img align="left" alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/60px-React-icon.svg.png" />
 
-<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/60px-Angular_full_color_logo.svg.png" />
+<img align="left" alt="Angular" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/60px-Angular_full_color_logo.svg.png" />
+
+
+<br />
+<br />
 
 ### Mobile:
 
-<img align="left" alt="React-Native" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/60px-React-icon.svg.png" />
+<img align="left" alt="React-Native" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/60px-React-icon.svg.png" />
 
-<img align="left" alt="Flutter" width="26px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
+<img align="left" alt="Flutter" width="40px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
 
 
 <br />
