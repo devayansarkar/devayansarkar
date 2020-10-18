@@ -39,7 +39,8 @@
 <img align="left" alt="Html" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/80px-HTML5_logo_and_wordmark.svg.png" />
 
 <img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/60px-CSS3_logo_and_wordmark.svg.png" />
-
+<br />
+<br />
 ### Backend:
 
 <img align="left" alt="Spring-Boot" width="26px" src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" />
@@ -49,7 +50,8 @@
 <img align="left" alt="Flask" width="26px" src="https://qph.fs.quoracdn.net/main-qimg-e251cee423804864838edc8408c56341" />
 
 <img align="left" alt="Django" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/60px-Django_logo.svg.png" />
-
+<br />
+<br />
 ### Frontend:
 
 <img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/60px-React-icon.svg.png" />
