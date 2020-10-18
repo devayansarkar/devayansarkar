@@ -12,13 +12,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="devayansarkar.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] &nbsp;
+[<img align="left" alt="devayansarkar.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-[<img align="left" alt="Devayan Sarkar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] &nbsp;
+[<img align="left" alt="Devayan Sarkar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
 
-[<img align="left" alt="Devayan Sarkar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] &nbsp; 
+[<img align="left" alt="Devayan Sarkar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 
-[<img align="left" alt="Devayan Sarkar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] &nbsp;
+[<img align="left" alt="Devayan Sarkar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
 
 <br />
 
@@ -36,7 +36,7 @@
 
 <img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/60px-Dart-logo.png" />
 
-<img align="left" alt="Html" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/60px-HTML5_logo_and_wordmark.svg.png" />
+<img align="left" alt="Html" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/80px-HTML5_logo_and_wordmark.svg.png" />
 
 <img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/60px-CSS3_logo_and_wordmark.svg.png" />
 
