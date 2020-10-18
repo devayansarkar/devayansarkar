@@ -69,7 +69,7 @@
 
 <img align="left" alt="React-Native" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/60px-React-icon.svg.png" />
 
-<img align="left" alt="Flutter" width="40px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
+<img align="left" alt="Flutter" width="30px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" />
 
 
 <br />
