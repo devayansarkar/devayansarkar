@@ -59,7 +59,7 @@
 
 <img align="left" alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/60px-React-icon.svg.png" />
 
-<img align="left" alt="Angular" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/60px-Angular_full_color_logo.svg.png" />
+<img align="left" alt="Angular" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/60px-Angular_full_color_logo.svg.png" />
 
 
 <br />
