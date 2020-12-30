@@ -80,9 +80,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GraphQL Server Using Firebase](https://medium.com/swlh/graphql-server-using-firebase-97c9ec101948)
 - [Microservices may not be the answer you need.](https://medium.com/@devayansarkar/microservices-may-not-be-the-answer-you-need-e0d7cffe599)
 - [Is Deno replacement of NodeJs ?](https://medium.com/@devayansarkar/deno-says-hello-world-6eb1aca7f75d)
-- [What is the best IDE for coding ?](https://medium.com/p/d4ea36e08f0)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://devayansarkar.com/blog)
