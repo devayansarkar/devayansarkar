@@ -80,10 +80,10 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create multi module NodeJs applications](https://devayansarkar.medium.com/how-to-create-multi-module-nodejs-applications-9aff2d73dc17)
 - [Building an Issue tracker application from scratch](https://devayansarkar.medium.com/building-an-issue-tracker-application-from-scratch-77765240c1a8)
 - [Creating Material UI themes in React](https://medium.com/javascript-in-plain-english/creating-material-ui-themes-in-react-cc839c9ee683)
 - [GraphQL Server Using Firebase](https://medium.com/swlh/graphql-server-using-firebase-97c9ec101948)
-- [Microservices may not be the answer you need.](https://medium.com/@devayansarkar/microservices-may-not-be-the-answer-you-need-e0d7cffe599)
 
 <!-- BLOG-POST-LIST:END -->
 
