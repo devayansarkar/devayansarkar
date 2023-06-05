@@ -6,7 +6,6 @@
 ## I'm a developer, traveller, avid reader and an occasional writter !!
 
 - 🧗🏻‍♂️ I’m currently learning advanced ML concepts
-- 🥅 2022 Goals: Build more ML powered applications and write more blogs
 - 🏸 Fun fact: I love to play badminton
 
 
